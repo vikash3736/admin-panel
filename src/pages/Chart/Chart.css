@@ -1,0 +1,7 @@
+.chart{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: -1px 0px 8px 0px rgba(115,92,92,0.45);
+-webkit-box-shadow: -1px 0px 8px 0px rgba(115,92,92,0.45);
+-moz-box-shadow: -1px 0px 8px 0px rgba(115,92,92,0.45);
+}
